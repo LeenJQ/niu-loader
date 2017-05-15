@@ -2,6 +2,7 @@
 
 能够像下面一样写页面
 
+```vuejs
 <template>
   <div>
     hello {{msg}}
@@ -23,3 +24,4 @@
     font-size: 10px;
   }
 </style>
+```
